@@ -1,4 +1,5 @@
 const api = process.env.API;
+console.log(api);
 export const getAllBlogs = async () => {
   try {
     const res = await fetch(`${api}/blogs`, {
