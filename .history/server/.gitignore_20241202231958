@@ -1,0 +1,11 @@
+/node_modules
+node_modules
+/node_modules/
+./node_modules
+/node_modules
+.env
+<<<<<<< HEAD
+/.env
+=======
+/.env
+>>>>>>> 25c57ae1c2a639b972ea86f38ecb14b58cf73b5e
