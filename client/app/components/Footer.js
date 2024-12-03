@@ -18,9 +18,9 @@ const Footer = () => {
         </div>
       </div>
       <div>
-        <span className="font-semibold">Developed By : </span>
+        <span className="font-semibold dark:text-white">Developed By : </span>
         <Link
-          className="font-bold"
+          className="font-bold dark:text-white"
           href={"https://tahmidalam.vercel.app/"}
           target="_blank"
         >

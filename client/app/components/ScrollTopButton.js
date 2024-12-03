@@ -77,7 +77,7 @@ const ScrollTopButton = () => {
               fontSize: "16px",
               fontWeight: "bold",
             }}
-            className="flex items-center justify-center"
+            className="flex items-center justify-center dark:text-black"
           >
             Top
           </span>
